@@ -1,0 +1,23 @@
+.pic1 {
+color:white;
+display: inline-block;
+  background-image:url(image2/detox\ cure\ smoothie.jpg);
+width: 2000px;
+  margin: auto;
+  display: inline-block;
+  margin-left: 20px;
+    
+
+ }
+.second-part {
+
+    color:black;
+    float: left;
+
+}
+   .third-part {
+       color: white;
+       background-color:palevioletred;
+   } 
+
+}
